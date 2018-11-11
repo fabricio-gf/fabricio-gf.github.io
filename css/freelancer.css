@@ -18,8 +18,8 @@ h6 {
   font-family: 'Montserrat';
 }
 
-hr.star-light,
-hr.star-dark {
+hr.gamepad-light,
+hr.gamepad-dark {
   max-width: 15rem;
   padding: 0;
   text-align: center;
@@ -31,8 +31,8 @@ hr.star-dark {
   margin-right: auto;
 }
 
-hr.star-light:after,
-hr.star-dark:after {
+hr.gamepad-light:after,
+hr.gamepad-dark:after {
   position: relative;
   top: -.8em;
   display: inline-block;
@@ -43,20 +43,20 @@ hr.star-dark:after {
   font-size: 2em;
 }
 
-hr.star-light {
+hr.gamepad-light {
   border-color: #fff;
 }
 
-hr.star-light:after {
+hr.gamepad-light:after {
   color: #fff;
   background-color: #18BC9C;
 }
 
-hr.star-dark {
+hr.gamepad-dark {
   border-color: #2C3E50;
 }
 
-hr.star-dark:after {
+hr.gamepad-dark:after {
   color: #2C3E50;
   background-color: white;
 }
