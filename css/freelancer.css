@@ -382,3 +382,9 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.divider{
+	width:5px;
+    height:auto;
+    display:inline-block;
+}
